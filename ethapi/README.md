@@ -1,0 +1,1 @@
+Package is a full copy of github.com/EktaMind/Thank_ethereum/internal/ethapi
